@@ -138,7 +138,7 @@ export default function Header() {
                     <div className="text-2xl text-white cursor-pointer" onClick={() => router.push("/doctors")}>
                         Doctors
                     </div>
-                    <div className="text-2xl text-white cursor-pointer" onClick={() => router.push("/appointments")}>
+                    <div className="text-2xl text-white cursor-pointer" onClick={() => router.push("/appointment")}>
                         Appointments
                     </div>
                 </div>
